@@ -22,8 +22,18 @@ En este curso usaré la distribución DEBIAN.
 
 ## KERNEL
 
-Corazón del sistema operativo, encargado de que el software y el hardware del sistema op puedan trabajar juntos
+Corazón del sistema operativo, encargado de que el software y el hardware del sistema op puedan trabajar juntos.
+
 <img width="340" height="233" alt="image" src="https://github.com/user-attachments/assets/b04c3dbd-0f0d-49f1-b052-687fa37d1685" />
+
+FUNCIONES MAS IMPORTANTES
+- Administración de la memoria.
+- Administración del tiempo de procesamiento.
+- Acceso a periféricos.
+
+## Descarga
+
+### www.kernel.org
 
 
 
