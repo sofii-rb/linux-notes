@@ -1,6 +1,6 @@
 # COMANDOS
 
-<img width="666" height="372" alt="image" src="https://github.com/user-attachments/assets/103c0bfb-3bde-47be-acc6-e932009411cd" />
+<img width="566" height="372" alt="image" src="https://github.com/user-attachments/assets/103c0bfb-3bde-47be-acc6-e932009411cd" />
 
 ## FUNCIONES COMANDOS BÁSICOS
 
