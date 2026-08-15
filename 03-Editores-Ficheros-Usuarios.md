@@ -19,7 +19,7 @@ Se les asigna una Shell para el acceso
 
 ## Distribución
 
-<img width="651" height="076" alt="image" src="https://github.com/user-attachments/assets/519f39b1-6c34-43b2-870c-5975d3378b63" />
+<img width="651" height="476" alt="image" src="https://github.com/user-attachments/assets/519f39b1-6c34-43b2-870c-5975d3378b63" />
 
 ## Acceder a un Fichero
 
